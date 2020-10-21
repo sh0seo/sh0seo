@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 My name is SANGHO SEO (a.k.a sh0seo).
 
 - :computer: Backend engineer who loves designing system architectures.
-- 💕: Golang & flutter
+- 💕: Swift & Golang
 - :gift: Open source enthusiast. Thanks for the all open source contributors.
 
 [![sh0seo's github stats](https://github-readme-stats.vercel.app/api?username=sh0seo&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
